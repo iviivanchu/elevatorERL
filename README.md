@@ -1,11 +1,9 @@
+# Create an elevator, using ERL
 
-# Creación de un ascensor, usando ERL
-
-Para poder correr el proyecto, lo único que hay que hacer es ejecutar el Makefile con el comando:
+In order to run the project, all you have to do is run the Makefile with the command:
 
 ```
-  make main
+   make main
 ```
 
-El proyecto también cuenta con un PCB con diferentes opciones para controlar el ascensor que está conectado al Arduino.
-
+For correct operation, a hardware module connected to an Arduino is necessary.
